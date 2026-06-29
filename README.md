@@ -61,7 +61,7 @@ Provide:
 
 ---
 
-# 🚀 Step 2 - Initialize Terraform
+#  Step 2 - Initialize Terraform
 
 ```bash
 terraform init
